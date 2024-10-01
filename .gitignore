@@ -1,0 +1,23 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos de Configuração e Ambiente
+*.env
+.env
+
+# Arquivos Python Compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e Saídas
+logs/
+*.log
+
+# Arquivos de Migração do Alembic
+alembic/versions/*.pyc
+
+# Outros
+.DS_Store
